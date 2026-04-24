@@ -1,1 +1,2 @@
 # sistemas-operativos
+Yo he elegido windows 11 porque tiene mas seguridad que los demas sistemas operativos, que ofrece un cifrado de datos como el bitloquer que protegen informacion. Y aparte es mucho mas organizado porque tiene escritorios organizados. No va a haber problemas con los programas habituales de office, los empleados la van a saber utilizar facil, permite trabajar facilmente en la red para compartir documentos entre los seis ordenadores.
